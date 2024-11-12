@@ -1,0 +1,520 @@
+{
+  "translation": {
+    "sidebar": {
+      "Dashboard": "Dashboard",
+      "BuscarEmpleo": "Job search",
+      "MisFavoritos": "My favorites",
+      "MisPostulaciones": "My applications",
+      "CalendarioEntrevistas": "Calendar",
+      "MisEvaluaciones": "My evaluations",
+      "MiPerfil": "My profile",
+      "MiPortafolio": "My portfolio",
+      "MiCv": "My CV",
+      "Configuracion": "Settings",
+      "Ayuda": "Help",
+      "BuscarTalentos": "Search talent",
+      "MisProcesos": "My processes",
+      "PublicarEmpleo": "Post a job",
+      "Reportes": "My reports",
+      "MiCompañia": "My company",
+      "Mensajes": "Messages",
+      "CerrarSesion": "Log Out",
+      "Menu": "MENU",
+      "Preferencias": "PREFERENCES"
+    },
+    "navbar": {
+      "searchNameEmpleo": "Search for a job"
+    },
+    "user": {
+      "login": "Log In"
+    },
+    "offersPage": {
+      "OfertasDisponibles": "{{count}} offers available",
+      "EmpleosSimilares": "Similar jobs"
+    },
+    "offerCard": {
+      "Postular": "Apply"
+    },
+    "offerDetail": {
+      "Sueldo": "Salary: ${{salary}}",
+      "PostularAhora": "Apply now",
+      "PaginaDeEmpleo": "See job",
+      "Descripcion": "Description",
+      "Requisitos": "Requirements",
+      "StacksTecnologicos": "Technology stack",
+      "Beneficios": "Benefits",
+      "CerrarModal": "Close"
+    },
+    "pagination": {
+      "Anterior": "Previous",
+      "Siguiente": "Next"
+    },
+    "settingsLayout": {
+      "AdministracionCuenta": "Account Management",
+      "Notificaciones": "Notifications",
+      "VisibilidadPerfil": "Profile Visibility"
+    },
+    "settingsAccount": {
+      "title": "Account Management",
+      "description": "Modify and manage account",
+      "emailPlaceholder": "Email",
+      "passwordPlaceholder": "Password",
+      "emailModalConfirmDetail": "For security reasons, please check your email and confirm the deletion of your account to complete the process.",
+      "surveyTitle": "What is the main reason for deleting your account?",
+      "noJob": "I did not find a job",
+      "foundJobElsewhere": "I found a job on another platform",
+      "noInterviews": "I was unable to get interviews",
+      "noOffers": "There were no offers for my profile",
+      "noSupport": "I did not receive sufficient support",
+      "accountDeletedMessage": "You have successfully deleted your account",
+      "youdeletedyour": "You deleted your",
+      "account": "account",
+      "successfully": "successfully",
+      "detail": "Modify your login credentials",
+      "subtitle": "Your account",
+      "emailLabel": "Email",
+      "passwordLabel": "Password",
+      "changeButton": "Change",
+      "manageAccountButton": "Deactivate or delete my account ;(",
+      "manageAccountTitle": "Deactivate or delete my account ;(",
+      "deactivateAccount": "Deactivate my account",
+      "deactivateAccountInfo": "You can reactivate your account anytime and retrieve your data, you can't apply for jobs.",
+      "deleteAccount": "Delete my account",
+      "deleteAccountInfo": "Delete your account and data permanently, you won't be able to recover them.",
+      "cancel": "Cancel",
+      "areYouSure": "Are you sure?",
+      "deactivateConfirmInfo": "You can reactivate your account anytime",
+      "deactivateButton": "Deactivate my account",
+      "buttonCancel": "Let me think about it",
+      "deleteConfirmInfo": "Please note that if you delete your account, you won't be able to reactivate it and you'll need to create a new one, all your data will be erased.",
+      "deleteButton": "Delete my account",
+      "emailModalConfirmTitle": "Email Confirmation"
+    },
+    "settingsNotifications": {
+      "title": "Notifications",
+      "description": "Select notification preference",
+      "detail": "Choose your notification preferences within the platform and via email",
+      "titlePlataforma": "Platform",
+      "optionPostularTrabajo": "Apply for a job",
+      "optionActualizarPerfil": "Profile update",
+      "titleCorreo": "Email",
+      "optionOportunidadLaboral": "New job opportunities",
+      "optionEstadoPostulación": "Application status update",
+      "optionInvitacionEntrevista": "Interview invitation"
+    },
+    "settingsVisibility": {
+      "title": "Profile Visibility",
+      "description": "Enable or disable applicant profile visibility for a company",
+      "detail": "Activate or deactivate your profile visibility for companies",
+      "optionVisible": "Be visible to companies",
+      "pagination": {
+        "Anterior": "Previous",
+        "Siguiente": "Next"
+      }
+    },
+    "Faq": {
+      "Cards": {
+        "nameCuenta": "Account and",
+        "subnameCuenta": "Profile",
+        "nameBusqueda": "Search of",
+        "subnameBusqueda": "employment",
+        "nameSeleccion": "Process of",
+        "subnameSeleccion": "selection",
+        "nameSoporte": "Technical",
+        "subnameSoporte": "support"
+      }
+    },
+    "FormFaq": {
+      "nombre": "Name",
+      "correo": "Mail",
+      "consulta": "Choose the type of query",
+      "enviar": "Send",
+      "perzonalizada": "Do you need personalized help?",
+      "texto": "Generate a Ticket with your query, and we will respond to you in the shortest time possible"
+    },
+    "ayuda": {
+      "preguntas": "Frequent questions",
+      "categorias": "Categories"
+    },
+    "acordeon": {
+      "acordeonuno": "Is it possible to upload my resume?",
+      "acordeondos": "Are there tips for writing a good resume?"
+    },
+    "categorias": {
+      "frecuentes": "Frequent questions",
+      "categoria": "Categories: "
+    },
+    "dashboard": {
+      "Dashboard": "Dashboard",
+      "goodmorning": "Good morning",
+      "profileAlertMessage": "Your profile is 80% complete! Complete your CV to reach 100% and improve your job opportunities.",
+      "interviewSelectedMessage": "You were selected for an interview",
+      "postulation": {
+        "Status": "Profile Status",
+        "Entrevistas": "Interviews",
+        "Completado": "Completed",
+        "Porcompletar": "To be completed",
+        "Febrero": "February",
+        "Marzo": "March",
+        "Abril": "April",
+        "Mayo": " May",
+        "interviews": {
+          "entrevistas": "N° of applications",
+          "monday": "M",
+          "tuesday": "T",
+          "wednesday": "W",
+          "thursday": "T",
+          "friday": "F",
+          "saturday": "S",
+          "sunday": "S",
+          "apply": "Apply",
+          "january": "January",
+          "february": "February",
+          "march": "March",
+          "april": "April",
+          "may": " May",
+          "june": "June",
+          "july": "July",
+          "august": "August",
+          "september": "September",
+          "october": "October",
+          "november": "November",
+          "december": "December"
+        }
+      },
+      "profileviews": {
+        "Vistasdeperfil": "Profile Views",
+        "feb": "Feb",
+        "mar": "Mar",
+        "abr": "Apr",
+        "may": "May",
+        "latestapplications": {
+          "ÚltimasPostulaciones": "Latest applications",
+          "VerTodas": "View all"
+        }
+      },
+      "discord": {
+        "Unete": "Join now our community of",
+        "Discord": "Discord!",
+        "Vamos": "Let's go",
+        "english": {
+          "Demuestra": "Demonstrate your",
+          "Conocimientos": "knowledge in",
+          "Ingles": "English",
+          "Test": "Go to the test"
+        },
+        "MyEvaluations": {
+          "evaluaciones": "My Evaluations",
+          "evaluations": {
+            "englishTest": "English Test",
+            "codingChallenge": "Coding Challenge",
+            "psychometricTest": "Psychometric test",
+            "softSkills": "Soft skills",
+            "testIngles": "English Test",
+            "joyitTest": "JoyIT Test 1",
+            "takeTestButton": "Take test",
+            "showIn": "Show in CV",
+            "todos": "All",
+            "pendientes": "Pending ",
+            "asignadas": "Assigned",
+            "realizadas": "Performed"
+          }
+        },
+        "notifications": {
+          "Platform": "Platform Notifications",
+          "postulo": "Applied for a job",
+          "completo": "Completed your profile information",
+          "subio": "Uploaded your CV",
+          "unio": "Joined the platform"
+        }
+      },
+      "popover": {
+        "notificaciones": "Notifications",
+        "actividad": "View all activity",
+        "items": {
+          "empleo": "Applied for a job",
+          "completo": "Completed the information of...",
+          "subir": "Uploaded your CV"
+        }
+      }
+    },
+    "offersFavorite": {
+      "favoritos": "My favorites"
+    },
+
+    "filterJobs": {
+      "filter": "Filters",
+      "searchIA": "Search with IA",
+      "category": {
+        "category": "Category",
+        "product": "Product",
+        "others": "Others"
+      },
+      "location": "Location",
+      "yearsExp": {
+        "yearsExp": "Years of exp.",
+        "inexperienced": "Without experience",
+        "expert": "Expert"
+      },
+      "modality": {
+        "modality": "Modality",
+        "remote": "Remote",
+        "hybrid": "Hybrid",
+        "inPerson": "In person"
+      },
+      "moreFilters": {
+        "moreFilters": "+ Filters",
+        "benefits": {
+          "benefits": "Benefits",
+          "hourFlex": "Flexible schedule",
+          "equipment": "Equipment",
+          "personalDev": "Personal development",
+          "medicalAssis": "Virtual Medical Assistance",
+          "internet": "Internet subsidy",
+          "accesEvents": "Access to industry events",
+          "health": "Health insurance",
+          "food": "Food Voucher",
+          "vacation": "Paid vacations",
+          "psychological": "Virtual psychological assistance",
+          "electricity": "Light subsidy",
+          "training": "Continuous training"
+        },
+        "salary": "Salary",
+        "order": {
+          "order": "Sort by",
+          "mostRelevant": "More relevant",
+          "newer": "Newer",
+          "older": "Older"
+        }
+      },
+      "clean": "Reset",
+      "apply": "Apply"
+    },
+    "myEvaluationid": {
+      "volver": "Return",
+      "texto": "680 people took this test",
+      "progreso": "Progress",
+      "test": "Information about the tests",
+      "botton": "Start test",
+      "subtitulo": "Coding Challenge"
+    },
+    "myEvaluationsFaqId": {
+      "pregunta": "Question ({current}/{total})",
+      "textopregunta": "Which of the following technologies is commonly used to develop RESTful APIs?",
+      "atras": "Back",
+      "siguiente": "Next",
+      "terminar": "Finish Test"
+    },
+    "myEvaluationsEnd": {
+      "texto": "Your answers have been recorded"
+    },
+    "postulationsCalendar": {
+      "title": "Interview schedule",
+      "views": {
+        "month": "Month",
+        "week": "Week"
+      },
+      "search": "Search interview",
+      "today": "Today",
+      "modalMain": {
+        "title": "Interview",
+        "meeting": "Enter the meeting",
+        "body": "scheduled an interview with you for the position of",
+        "question": "Will you attend?",
+        "yes": "Yes",
+        "no": "No",
+        "reschedule": "Request a reschedule"
+      },
+      "modalAcceptInterview": {
+        "title": "Confirm your attendance at the Interview",
+        "return": "Back",
+        "submit": "Confirm"
+      },
+      "modalDeclineInterview": {
+        "title": "Reject Interview",
+        "return": "Back",
+        "submit": "Decline"
+      },
+      "modalReschedule": {
+        "subtitle": "Select date and time",
+        "return": "Back",
+        "submit": "Request rescheduling",
+        "titleConfirm": "Request sent",
+        "subTitleConfirm": "New Date and time:",
+        "textBodyConfirm": "We will notify you by email of the decision to reschedule your interview."
+      }
+    },
+    "companydashboard": {
+      "welcome": "Welcome to {Company}",
+      "youHave": "You have",
+      "interviews": "3 interviews this week"
+    },
+    "activeProcesses": {
+      "processes": "Active Processes"
+    },
+    "calendar": {
+      "calendario": "Calendar",
+      "viewAll": "View all"
+    },
+    "activeJobs": {
+      "jobs": "Active Jobs",
+      "applicants": "Applicants",
+      "interviews": "Interviews",
+      "positionsToFill": "Positions to fill",
+      "today": "Today",
+      "thisWeek": "This week",
+      "processes": "2 Processes"
+    },
+    "pipeline": {
+      "processPipeline": "Active process Pipeline",
+      "activeStatus": "Assets",
+      "endDate": "Termination Date"
+    },
+    "createJob": {
+      "customize": "Customize your new job",
+      "saveDraft": "Save draft",
+      "preview": "Preview",
+      "publish": "Publish"
+    },
+    "features": {
+      "featu": "Features",
+      "modality": "Modality",
+      "timeRange": "Time range",
+      "countryCompany": "Country (of company)",
+      "cityCompany": "City (of company)",
+      "country": "Select country",
+      "city": "Select city",
+      "salary": "Salary range",
+      "from": "From",
+      "fixed": "Fixed salary",
+      "experience": "Experience level",
+      "english": "English",
+      "improveAI": "Improve with AI",
+      "benefit": "Benefits",
+      "seeMore": "See more...",
+      "write": "Write here...",
+      "ia": "IA",
+      "main": "Main",
+      "basic": "Basic",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced",
+      "notRelevant": "Not relevant",
+      "remote": "Remote",
+      "hybrid": "Hybrid",
+      "onsite": "On-site",
+      "jobDescription": "What does employment consist of?",
+      "responsibilities": "What functions will be performed?",
+      "additional": "What additional requirements are necessary?",
+      "benefits": {
+        "flexibleHours": {
+          "title": "Flexible schedule",
+          "description": "{Company} has flexible hours."
+        },
+        "equipment": {
+          "title": "Team",
+          "description": "{Company} provides a laptop / equipment for the worker."
+        },
+        "medicalInsurance": {
+          "title": "Medical insurance",
+          "description": "{Company} will provide health insurance coverage."
+        },
+        "performanceBonus": {
+          "title": "Performance bonus",
+          "description": "{Company} offers performance bonuses."
+        },
+        "careerDevelopment": {
+          "title": "Professional development",
+          "description": "{Company} offers a career line."
+        },
+        "trainings": {
+          "title": "Training",
+          "description": "{Company} offers courses or training."
+        },
+        "birthdayLeave": {
+          "title": "Day off for birthdays",
+          "description": "{Company} will provide 1 day off for birthdays"
+        },
+        "travelOpportunity": {
+          "title": "Possibility to travel",
+          "description": "{Company} provides tickets and per diems in case of travel."
+        },
+        "welcomeKit": {
+          "title": "Welcome Kit",
+          "description": "{Company} offers a physical / virtual welcome kit."
+        },
+        "medicalAssistance": {
+          "title": "Medical assistance",
+          "description": "{Company} offers virtual medical assistance."
+        },
+        "psychologicalAssistance": {
+          "title": "Psychological assistance",
+          "description": "{Company} offers virtual psychological assistance."
+        },
+        "extraLeaveDays": {
+          "title": "Extra days off",
+          "description": "{Company} will provide extra days off for meeting objectives."
+        },
+        "lightSubsidy": {
+          "title": "Light voucher",
+          "description": "{Company} subsidizes the worker's electricity service."
+        },
+        "foodSubsidy": {
+          "title": "Food voucher",
+          "description": "{Company} offers a voucher or meal ticket."
+        },
+        "internetSubsidy": {
+          "title": "Internet voucher",
+          "description": "{Company} will fully / partially subsidize the internet service."
+        },
+        "eventAccess": {
+          "title": "Access to events",
+          "description": "{Company} offers the possibility of attending industry events."
+        }
+      }
+    },
+    "postAJob": {
+      "jobTitle": "Job title",
+      "employment": "Employment area",
+      "available": "Available positions",
+      "selectProfile": "Select a profile",
+      "profile": "Profile"
+    },
+    "visibility": {
+      "visi": "Visibility",
+      "display": "Display company name",
+      "only": "Only accept verified profiles"
+    },
+    "question": {
+      "quest": "Questions",
+      "form": "Form to be used to complete the candidates' application.",
+      "options": "+ Add question with options",
+      "answer": "+ Add question with short answer"
+    },
+    "questionItem": {
+      "choice": "Multiple choice question",
+      "multiple": "Short answer question",
+      "several": "Multiple Choice",
+      "short": "Short answer",
+      "Add": "+ Add option",
+      "text": "Short answer text",
+      "option": "Option {{count}}"
+    },
+    "myReports": {
+      "reports": "My reports",
+      "requests": "Requests",
+      "all": "All",
+      "new": "New",
+      "inProgress": "In Progress",
+      "rejected": "Rejected",
+      "daily": "Daily",
+      "biweekly": "Biweekly",
+      "monthly": "Monthly",
+      "annual": "Annual",
+      "newRequests": "New applications",
+      "processedRequests": "Applications processed",
+      "rejectedRequests": "Rejected applications",
+      "interviewsHeld": "Interviews conducted",
+      "interviews": "Interviews"
+    }
+  }
+}
